@@ -4,5 +4,4 @@ New-York
 Chicago
 Toronto
 Tokyo
-Cairo
-Mexico-City
+
