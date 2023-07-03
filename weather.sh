@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/usr/bin/bash/
 
 # This script reads a list of cities from a file called cities.txt and uses the wttr.in API to get the weather for each city.
 
@@ -14,5 +14,5 @@ do
 
 	# Print the weather for the current city
 
-	echo "The weather for $city is $weather"
+	echo "The weather at  $weather"
 done
